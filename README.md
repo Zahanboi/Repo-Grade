@@ -1,3 +1,6 @@
+[![Demo Video](./assets/video-thumb.png)](https://drive.google.com/file/d/1ozmaUqi5Qy6aM7o1OAvETIIRETcuZuNK/view?usp=sharing)
+
+
 # Repo-Grade 🚀  
 ### Turn Any GitHub Repository into a Developer Report Card
 
@@ -48,8 +51,9 @@ Students push projects to GitHub but don't know:
 **Frontend:** React (Vite) → Vercel  
 **Backend:** Node.js + Express + GitHub API + Groq LLM → Render
 
-![Frontend Structure](frontend/public/image2-.png)
-![Backend Structure](frontend/public/image23.png)
+Frontend Strcuture ![Frontend Structure](frontend/public/image2-.png)
+
+Backend Structure ![Backend Structure](frontend/public/image23.png)
 
 ## 🚀 Check it out Live at:
 [GitGrade Live Demo](https://repo-grade.vercel.app/)
