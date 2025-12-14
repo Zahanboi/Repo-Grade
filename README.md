@@ -48,8 +48,8 @@ Students push projects to GitHub but don't know:
 **Frontend:** React (Vite) → Vercel  
 **Backend:** Node.js + Express + GitHub API + Groq LLM → Render
 
-![Frontend Structure](/image2-.png)
-![Backend Structure](/image23.png)
+![Frontend Structure](frontend/public/image2-.png)
+![Backend Structure](frontend/public/image23.png)
 
 ## 🚀 Check it out Live at:
 [GitGrade Live Demo](https://repo-grade.vercel.app/)
