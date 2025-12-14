@@ -28,6 +28,7 @@ Students push projects to GitHub but don't know:
 - 📊 Generates **numeric score (0–100)** with level & badge
 - 🧠 Evaluates: project structure, commit history, documentation, testing, tech stack
 - 🤖 AI-powered mentor-style summary
+- 🛡️Secure Client and Server side validation app
 - 🗺️ Personalized roadmap (immediate fixes, skill improvements, best practices)
 - 🌐 Fully deployed (Vercel + Render)
 
