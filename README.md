@@ -1,7 +1,7 @@
-# GitGrade 🚀  
+# Repo-Grade 🚀  
 ### Turn Any GitHub Repository into a Developer Report Card
 
-GitGrade is an AI-powered web application that analyzes public GitHub repositories and generates a **numeric score, written evaluation, and personalized improvement roadmap** — like feedback from a coding mentor.
+Repo-Grade is an AI-powered web application that analyzes public GitHub repositories and generates a **numeric score, written evaluation, and personalized improvement roadmap** — like feedback from a coding mentor.
 
 Built for the **GitGrade Hackathon** | Theme: AI + Code Analysis + Developer Profiling
 
